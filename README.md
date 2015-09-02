@@ -20,7 +20,7 @@ Code for Japanの新しい組織である運営委員会が発足されました
 利用ツール
 ---------
 * Wikiページ
-  -  [Code for Japan 運営委員会 (Wikiページ)][1] 、運営委員会の議論はこちらを参照ください。
+  -  [Code for Japan 運営委員会 (Wikiページ)][1] 、運営委員会についてはこちらを参照ください。
 * Slack
   - [#steering-committe][2]、**Slack**の**#steering-committe**チャンネルで運営委員会の議論をしています。
 
