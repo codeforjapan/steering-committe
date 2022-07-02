@@ -1,5 +1,7 @@
 Code for Japan 運営委員会
 --------------
+| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+
 Code for Japanの新しい組織である運営委員会が発足されました。  
 考える会から生まれ、[自選/他薦](https://www.facebook.com/groups/codeforjapan/permalink/408144372727469/)を経て決まった以下のメンバー＋理事が運営委員会の構成員となります。  
 こちらのメンバーで話し合いをしています。
